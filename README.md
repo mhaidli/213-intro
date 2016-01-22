@@ -14,8 +14,26 @@ Why are you taking this course?
 What are your concerns about this course?
 > ...
 
-Is there anything in this class you are excited to learn?
+What topic in this course are you most excited to cover?
 > ...
 
 Do you have any questions for me?
+> ...
+
+## About this course
+You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2016S/CSC213/syllabus/) for course policies.
+
+What work do you need to complete for this course?
+> ...
+
+What happens if you miss a day of class because you are sick or your alarm doesn't go off?
+> ...
+
+What happens if you turn in a lab late?
+> ...
+
+What happens if you miss a quiz?
+> ...
+
+When are you free during my regularly scheduled office hours?
 > ...
