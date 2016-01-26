@@ -33,4 +33,4 @@ What happens if you miss a quiz?
 > You get a 0 on the quiz.
 
 When are you free during my regularly scheduled office hours?
-> I'm free during Monday, Tuesday, and Friday's office hours. If I manage to change a course sectoion I'm thinking of changing, I'll also be free for Wednesday's office hours. 
+> I'm free during Monday, Tuesday, and Friday's office hours. If I manage to change a course section I'm thinking of changing, I'll also be free for Wednesday's office hours. 
